@@ -1,7 +1,3 @@
-Here’s a clean, scalable structure for a **FastAPI project** using `uv` (and optionally `uvicorn`, `pydantic`, `SQLModel`, etc.). This layout supports growth into production-ready apps.
-
----
-
 ## ✅ Recommended FastAPI Project Structure
 
 ```
@@ -118,4 +114,3 @@ uv pip run uvicorn app.main:app --reload
 
 ---
 
-Would you like me to generate this full structure in a `.zip` file or GitHub-ready starter template?
