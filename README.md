@@ -103,14 +103,14 @@ uv pip run uvicorn app.main:app --reload
 
 ## 🔥 Optional Enhancements
 
-| Feature                     | How to Add                           |
-| --------------------------- | ------------------------------------ |
-| Database (SQLite, Postgres) | Use `SQLModel` or `SQLAlchemy`       |
-| Auth                        | Use `OAuth2PasswordBearer`           |
-| Environment settings        | Add `python-dotenv`                  |
-| Testing                     | Use `pytest`, `httpx`                |
-| Docker                      | Want a Dockerfile? I can generate it |
-| CI/CD                       | GitHub Actions setup? Just ask!      |
+| Feature                                                              | How to Add                           |
+| -------------------------------------------------------------------- | ------------------------------------ |
+| Database (SQLite, Postgres)                                          | Use `SQLModel` or `SQLAlchemy`       |
+| Auth                                                                 | Use `OAuth2PasswordBearer`           |
+| Environment settings                                                 | Add `python-dotenv`                  |
+| Testing                                                              | Use `pytest`, `httpx`                |
+| Docker                                                               | Want a Dockerfile? I can generate it |
+| CI/CD                                                                | GitHub Actions setup? Just ask!      |
 
 ---
 
